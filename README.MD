@@ -12,7 +12,7 @@
 
 ## 🖤 Sobre mim
 
-Sou **Isabelly Rodrigues**, atuo com **Análise de Dados e Ciência de Dados**, com foco em transformar dados brutos em informação útil para tomada de decisão. Gosto de trabalhar do início ao fim de um projeto de dados: da coleta e limpeza até a construção de dashboards e modelos que geram valor real.
+Sou **Isabelly Rodrigues**, atuo com **Analista de Dados e Cientista de Dados**, com foco em transformar dados brutos em informação útil para tomada de decisão. Gosto de trabalhar do início ao fim de um projeto de dados: da coleta e limpeza até a construção de dashboards e modelos que geram valor real.
 
 - 🔍 Interesse em análise exploratória, visualização de dados e modelagem estatística
 - 📊 Gosto de projetos que unem dados e saúde/gestão pública
