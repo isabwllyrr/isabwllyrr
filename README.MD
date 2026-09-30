@@ -1,131 +1,98 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0D0D0D,100:FF3CAC&height=220&section=header&text=Isabelly%20Rodrigues&fontSize=42&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=Dados%20que%20contam%20uma%20história&descAlignY=55&descSize=18&descColor=FF9BD2" width="100%"/>
+# Olá, eu sou Isabelly Rodrigues 👋
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&duration=3000&pause=800&color=FF3CAC&center=true&vCenter=true&width=600&lines=Análise+de+Dados+%7C+Ciência+de+Dados;Transformando+dados+em+decisões;Sempre+aprendendo%2C+sempre+analisando." alt="Typing SVG" />
-</a>
+### Analista de Dados | Ciência de Dados | Business Intelligence
 
-</div>
+Transformo dados brutos em análises, produtos e visualizações que apoiam decisões —
+com interesse especial em saúde pública, negócios e finanças.
 
-<br>
-
-## 🖤 Sobre mim
-
-Sou **Isabelly Rodrigues**, atuo com **Analista de Dados e Cientista de Dados**, com foco em transformar dados brutos em informação útil para tomada de decisão. Gosto de trabalhar do início ao fim de um projeto de dados: da coleta e limpeza até a construção de dashboards e modelos que geram valor real.
-
-- 🔍 Interesse em análise exploratória, visualização de dados e modelagem estatística
-- 📊 Gosto de projetos que unem dados e saúde/gestão pública
-- 🌱 Em constante aprendizado em ciência de dados
-
-<br>
-
-## 🛠️ Tecnologias & Ferramentas
-
-<div align="center">
-
-<img src="https://skillicons.dev/icons?i=python,r,sql,postgres,mysql,mongodb,pandas,numpy,sklearn,tensorflow,tableau,powerbi,git,github,vscode,jupyter,linux,excel&theme=dark" />
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-171717?style=for-the-badge&logo=linkedin&logoColor=FF4FA3)](https://www.linkedin.com/in/isabelly-rodrigues-a9aa48319)
+[![GitHub](https://img.shields.io/badge/GitHub-171717?style=for-the-badge&logo=github&logoColor=FF4FA3)](https://github.com/isabwllyrr)
 
 </div>
 
-<br>
+---
+
+## Sobre mim
+
+Sou profissional da área de dados e gosto de conduzir projetos de ponta a ponta: da coleta, limpeza e validação à análise exploratória, modelagem e construção de dashboards.
+
+Meu foco é transformar perguntas de negócio em soluções reproduzíveis, visualmente claras e responsáveis. Tenho desenvolvido projetos aplicados a:
+
+- saúde pública e gestão do SUS;
+- inteligência de negócios e segmentação;
+- séries temporais, risco e finanças quantitativas.
+
+Atualmente, continuo aprofundando conhecimentos em modelagem preditiva, engenharia de dados e comunicação de resultados.
+
+## Projetos em destaque
+
+### [DialisaSUS — análise dos procedimentos de diálise no SUS](https://github.com/isabwllyrr/tcc-dashboard-dialise-sus)
+
+Plataforma web para análise temporal, territorial e preditiva dos procedimentos de diálise aprovados no SUS, usando dados do DATASUS e do IBGE.
+
+- Processamento e validação de **138 meses de dados**, de janeiro de 2015 a junho de 2026.
+- Indicadores nacionais, regionais, estaduais e municipais, com correção monetária pelo IPCA.
+- Comparação de modelos preditivos com validação temporal; o Gradient Boosting obteve **MAPE médio de aproximadamente 5,35%**.
+- Dashboard web, pipeline reproduzível, testes automatizados e documentação metodológica.
+- **Tecnologias:** Python, Pandas, scikit-learn, Astro, TypeScript, JavaScript e Netlify.
+
+### [FinTrack Insights — inteligência para campanhas bancárias](https://github.com/isabwllyrr/Projeto-Engenharia-software)
+
+Protótipo de apoio à decisão para explorar o desempenho de campanhas de depósito a prazo e comparar segmentos de clientes.
+
+- Análise de uma amostra pública com **4.521 clientes e 18 campos**.
+- Dashboard interativo com filtros, métricas reconciliáveis e comparação entre taxa de adesão e volume.
+- Documentação de requisitos, dicionário de dados, testes e plano de validação de usabilidade.
+- **Tecnologias:** Python, Pandas, Streamlit e HTML/CSS.
+
+### [Projeto TAF — análise quantitativa de ativos brasileiros](https://github.com/isabwllyrr/projeto_TAF)
+
+Aplicação em Streamlit para comparar ativos da B3 e apoiar a composição de carteiras com evidências quantitativas.
+
+- Modelos CAPM, Fama–French e GARCH para análise de risco.
+- Random Forest, Boosting, XGBoost, GRU e LSTM para previsão e backtesting.
+- Otimização de carteiras com Markowitz, fronteira eficiente e Hierarchical Risk Parity.
+- **Tecnologias:** Python, Streamlit, scikit-learn, PyTorch, XGBoost e yfinance.
+
+## Tecnologias
+
+**Linguagens e consultas**  
+![Python](https://img.shields.io/badge/Python-171717?style=flat-square&logo=python&logoColor=FF4FA3)
+![R](https://img.shields.io/badge/R-171717?style=flat-square&logo=r&logoColor=FF4FA3)
+![SQL](https://img.shields.io/badge/SQL-171717?style=flat-square&logo=postgresql&logoColor=FF4FA3)
+
+**Análise e modelagem**  
+![Pandas](https://img.shields.io/badge/Pandas-171717?style=flat-square&logo=pandas&logoColor=FF4FA3)
+![NumPy](https://img.shields.io/badge/NumPy-171717?style=flat-square&logo=numpy&logoColor=FF4FA3)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-171717?style=flat-square&logo=scikitlearn&logoColor=FF4FA3)
+![PyTorch](https://img.shields.io/badge/PyTorch-171717?style=flat-square&logo=pytorch&logoColor=FF4FA3)
+
+**Visualização e aplicações**  
+![Power BI](https://img.shields.io/badge/Power_BI-171717?style=flat-square&logo=powerbi&logoColor=FF4FA3)
+![Tableau](https://img.shields.io/badge/Tableau-171717?style=flat-square&logo=tableau&logoColor=FF4FA3)
+![Streamlit](https://img.shields.io/badge/Streamlit-171717?style=flat-square&logo=streamlit&logoColor=FF4FA3)
+![Excel](https://img.shields.io/badge/Excel-171717?style=flat-square&logo=microsoftexcel&logoColor=FF4FA3)
+
+**Ferramentas**  
+![Git](https://img.shields.io/badge/Git-171717?style=flat-square&logo=git&logoColor=FF4FA3)
+![GitHub](https://img.shields.io/badge/GitHub-171717?style=flat-square&logo=github&logoColor=FF4FA3)
+![Jupyter](https://img.shields.io/badge/Jupyter-171717?style=flat-square&logo=jupyter&logoColor=FF4FA3)
+![VS Code](https://img.shields.io/badge/VS_Code-171717?style=flat-square&logo=visualstudiocode&logoColor=FF4FA3)
+
+## Estatísticas
 
 <div align="center">
-
-![Python](https://img.shields.io/badge/Python-0D0D0D?style=for-the-badge&logo=python&logoColor=FF3CAC)
-![R](https://img.shields.io/badge/R-0D0D0D?style=for-the-badge&logo=r&logoColor=FF3CAC)
-![SQL](https://img.shields.io/badge/SQL-0D0D0D?style=for-the-badge&logo=postgresql&logoColor=FF3CAC)
-![Pandas](https://img.shields.io/badge/Pandas-0D0D0D?style=for-the-badge&logo=pandas&logoColor=FF3CAC)
-![NumPy](https://img.shields.io/badge/NumPy-0D0D0D?style=for-the-badge&logo=numpy&logoColor=FF3CAC)
-![Scikit--learn](https://img.shields.io/badge/Scikit--learn-0D0D0D?style=for-the-badge&logo=scikitlearn&logoColor=FF3CAC)
-![Power BI](https://img.shields.io/badge/Power%20BI-0D0D0D?style=for-the-badge&logo=powerbi&logoColor=FF3CAC)
-![Tableau](https://img.shields.io/badge/Tableau-0D0D0D?style=for-the-badge&logo=tableau&logoColor=FF3CAC)
-![Excel](https://img.shields.io/badge/Excel-0D0D0D?style=for-the-badge&logo=microsoftexcel&logoColor=FF3CAC)
-![Jupyter](https://img.shields.io/badge/Jupyter-0D0D0D?style=for-the-badge&logo=jupyter&logoColor=FF3CAC)
-
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabwllyrr&layout=compact&bg_color=0D1117&title_color=FF4FA3&text_color=FFFFFF&border_color=30363D" alt="Linguagens mais usadas" />
 </div>
 
-<br>
-
-## 🚀 Projetos em destaque
+---
 
 <div align="center">
 
-<a href="https://github.com/isabwllyrr/tcc-dashboard-dialise-sus">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabwllyrr&repo=tcc-dashboard-dialise-sus&bg_color=0D0D0D&title_color=FF3CAC&icon_color=FF9BD2&text_color=FFFFFF&border_color=FF3CAC" />
-</a>
-<a href="https://github.com/isabwllyrr/Projeto-Engenharia-software">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabwllyrr&repo=Projeto-Engenharia-software&bg_color=0D0D0D&title_color=FF3CAC&icon_color=FF9BD2&text_color=FFFFFF&border_color=FF3CAC" />
-</a>
-<br>
-<a href="https://github.com/isabwllyrr/projeto_TAF">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=isabwllyrr&repo=projeto_TAF&bg_color=0D0D0D&title_color=FF3CAC&icon_color=FF9BD2&text_color=FFFFFF&border_color=FF3CAC" />
-</a>
+### Vamos conversar sobre dados e projetos?
 
-</div>
+[LinkedIn](https://www.linkedin.com/in/isabelly-rodrigues-a9aa48319) · [GitHub](https://github.com/isabwllyrr)
 
-<br>
-
-## 📈 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=isabwllyrr&show_icons=true&bg_color=0D0D0D&title_color=FF3CAC&icon_color=FF9BD2&text_color=FFFFFF&border_color=FF3CAC&hide_border=false" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=isabwllyrr&layout=compact&bg_color=0D0D0D&title_color=FF3CAC&text_color=FFFFFF&border_color=FF3CAC&hide_border=false" width="48%" />
-
-</div>
-
-<div align="center">
-
-<img src="https://streak-stats.demolab.com?user=isabwllyrr&background=0D0D0D&ring=FF3CAC&fire=FF3CAC&currStreakLabel=FF9BD2&sideLabels=FFFFFF&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=FFFFFF&border=FF3CAC&hide_border=false" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=isabwllyrr&bg_color=0D0D0D&color=FF3CAC&line=FF3CAC&point=FFFFFF&area_color=FF9BD2&area=true&hide_border=true" width="95%" />
-
-</div>
-
-<br>
-
-## 🏆 Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=isabwllyrr&theme=dracula&no-frame=true&margin-w=10&row=1&column=6" />
-
-</div>
-
-<br>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/isabwllyrr/isabwllyrr/output/github-contribution-grid-snake-dark.svg" width="95%" />
-
-</div>
-
-<br>
-
-## 🌐 Redes sociais
-
-<div align="center">
-
-<a href="https://www.linkedin.com/in/isabelly-rodrigues-a9aa48319" target="_blank">
-  <img src="https://img.shields.io/badge/LinkedIn-0D0D0D?style=for-the-badge&logo=linkedin&logoColor=FF3CAC" />
-</a>
-<a href="https://www.instagram.com/itswsarr/" target="_blank">
-  <img src="https://img.shields.io/badge/Instagram-0D0D0D?style=for-the-badge&logo=instagram&logoColor=FF3CAC" />
-</a>
-
-</div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3CAC,100:0D0D0D&height=120&section=footer" width="100%"/>
-
-<div align="center">
-  <sub>Feito com 🖤 e muitos dados por Isabelly Rodrigues</sub>
 </div>
