@@ -1,5 +1,11 @@
 <div align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=2800&pause=900&color=FF4FA3&background=171717&center=true&vCenter=true&width=760&height=75&lines=Analista+de+Dados;Ci%C3%AAncia+de+Dados;Business+Intelligence;Python+%E2%80%A2+SQL+%E2%80%A2+Power+BI+%E2%80%A2+Streamlit" alt="Animação em rosa e preto com áreas de atuação" />
+
+</div>
+
+<div align="center">
+
 # Olá, eu sou Isabelly Rodrigues 👋
 
 ### Analista de Dados | Ciência de Dados | Business Intelligence
